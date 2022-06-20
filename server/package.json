@@ -1,0 +1,20 @@
+{
+  "name": "shopify-2-xexpress-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "keywords": [],
+  "author": "Tarik Caplja",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.0.6",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "graphql-request": "^3.3.0"
+  }
+}
